@@ -7,4 +7,5 @@
 Observações:
 
 a) Considerar que todas as classes estão em um único package chamado uscs.
+
 b)  Considerar os conceitos de herança.
